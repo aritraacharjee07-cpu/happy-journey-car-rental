@@ -40,7 +40,7 @@
 </section>
 
 <footer>
-  © 2025 Happy Journey Car Rentals, Agartala
+   Happy Journey Car Rentals, Agartala
 </footer>
 
 </body>
